@@ -16,7 +16,3 @@ This project entailed developing an algorithm to integrate a given power functio
 ## Technologies
 - **C#**: Used for scripting the integration algorithms and error calculations.
 - **Unity**: Employed for visualizations and interactive displays of results.
-
-## Usage
-- The repository contains all source codes and detailed instructions for running simulations and visualizations.
-- The README also includes a breakdown of the error metrics and their significance in evaluating the accuracy of numerical methods.
