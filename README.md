@@ -6,6 +6,8 @@ This project entailed developing an algorithm to integrate a given power functio
 ## Methodology
 - **Numerical Integration**: Implemented three methods - Rectangle, Midpoint, and Trapezoidal Rule - to approximate the integral of the power function.
 - **Error Analysis**: Calculated both absolute and relative errors to compare the numerical approximations against the analytically derived solution.
+![eqn](./assets/images/UML.png)
+
 
 ## Results
 - The project provided insights into the accuracy of different numerical integration techniques, with the Midpoint Method showing the highest precision.
